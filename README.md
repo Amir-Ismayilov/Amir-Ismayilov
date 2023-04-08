@@ -7,8 +7,8 @@
 
 - 📫 How to reach me [amir.ismayilov02@gmail.com](amir.ismayilov02@gmail.com)
 
-<h3 align="left">Connect with me:</h3>
-- 📫 [amir.ismayilov02@gmail.com](amir.ismayilov02@gmail.com)
+<!-- <h3 align="left">Connect with me:</h3> -->
+
 <p align="left">
 </p>
 
