@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amir Ismayilov</h1>
+<h1 align="center">Hi 👋, I'm Amir</h1>
 <h3 align="center">A frontend developer from Azerbaijan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amir-ismayilov&label=Profile%20views&color=0e75b6&style=flat" alt="amir-ismayilov" /> </p>
