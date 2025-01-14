@@ -17,6 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amir-ismayilov&show_icons=true&locale=en&layout=compact" alt="amir-ismayilov" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amir-ismayilov&show_icons=true&locale=en" alt="amir-ismayilov" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ismayilov&theme=default" alt="amir-ismayilov" /></p>
